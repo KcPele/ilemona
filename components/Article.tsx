@@ -14,11 +14,11 @@ const Article = () => {
       <div className="header__content-text">
         <h4>THE GREAT MAN OF THE WEEK</h4>
         <p className="app__p">
-          Faji Tobiloba is the 35th students' union president of the university
-          of Ilorin, an Apostle in the temple of innovations and ideas, he has
-          made a lot of achievements and is still making tremendous innovations
-          to help every student of the university of Ilorin. He is our great man
-          of the week.
+          Faji Tobiloba is the 35th students&apos; union president of the
+          university of Ilorin, an Apostle in the temple of innovations and
+          ideas, he has made a lot of achievements and is still making
+          tremendous innovations to help every student of the university of
+          Ilorin. He is our great man of the week.
         </p>
         <button className="app__btn app__btn_puple ">
           Learn More About Our Programs <WiDirectionRight size={30} />

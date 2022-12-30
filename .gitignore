@@ -12,7 +12,7 @@
 /.next/
 /out/
 .env
-yarn.lock
+
 # production
 /build
 
