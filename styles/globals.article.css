@@ -1,0 +1,18 @@
+.header__content-text h4{
+    /* font-style: normal; */
+  font-weight: 600;
+  font-size: clamp(var(--font-100), 4.5vw, var(--font-250));
+  line-height: min(70%, 40px);
+  color: #4A4A50;
+  margin-bottom: 1em;
+  
+  }
+  
+  .article__content-subsection_imgs{
+    margin-top: 1.8em;
+    display: flex;
+    width: 100%;
+    column-gap: 2.2em;
+    /* justify-content: space-between; */
+  }
+  
